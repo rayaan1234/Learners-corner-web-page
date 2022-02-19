@@ -1,0 +1,90 @@
+html, body
+{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  }
+
+.menu1 {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background: rgb(41, 37, 95);
+    margin-top: 0px;
+     top: 0px;
+    z-index: 0;
+}
+
+.menu1 a {
+    color: white;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#motto
+{font-style: italic;}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+
+.logo
+{
+	width: 160px;margin-top: 30px;border-radius: 80px;
+}
+.header
+{
+	color: rgb(255, 1, 1);font-family: 'Yeon Sung';font-size: 55px;letter-spacing: 10px;margin-top: 80px;
+}
+body
+{
+background-image: linear-gradient(to right top, #fdfcc5, #fffebc, #fffeb4, #fdfcaf, #fffd9e);
+}
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+#achievementsID
+{margin-bottom: 10px;}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+  font-weight: bold;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+
+.movie_text
+{text-align: justify;
+text-size-adjust:auto;
+line-height: 1.6;}
+
+#marqueeStyle
+{color:blue}
+
+#bookimage
+{width:7%;
+border-radius: 0px;}
+
+.btn
+{background-color: rgb(95, 178, 255);
+border-radius: 50px;
+font-weight: 600;
+color: white;
+}
+
+#furtherinstr
+{margin-top: 10px;}
