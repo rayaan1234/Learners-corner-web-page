@@ -62,11 +62,6 @@ background-image: linear-gradient(to right top, #fdfcc5, #fffebc, #fffeb4, #fdfc
   font-weight: bold;
 }
 
-.movie_text span
-{
-color: #ff7700;
-}
-
 .movie_text
 {text-align: justify;
 text-size-adjust:auto;
